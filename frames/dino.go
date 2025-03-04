@@ -1,6 +1,6 @@
 package frames
 
-var MyAnimation = DefaultFrameType(dinoFrames)
+var MyAnimation = DefaultFrameType(DinoFrames)
 
 var myAnimationFrames = []string{
   `                                                                                                                                                      
